@@ -1,0 +1,11 @@
+javax-mail-api:1.6.2-8
+sshd:3.249.v2dc2ea_416e33
+timestamper:1.21
+ws-cleanup:0.43
+jdk-tool:63.v62d2fd4b_4793
+command-launcher:90.v669d7ccb_7c31
+workflow-aggregator:590.v6a_d052e5a_a_b_5
+github-branch-source:1696.v3a_7603564d04
+pipeline-github-lib:38.v445716ea_edda_
+pipeline-stage-view:2.28
+ssh-slaves:2.854.v7fd446b_337c9
